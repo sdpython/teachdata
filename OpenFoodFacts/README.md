@@ -1,5 +1,7 @@
-# DonnÈes OpenFoodFacts
+# Donn√©es OpenFoodFacts
 
-Les donnÈes ont ÈtÈ fabriquÈes avec les donnÈes
+Les donn√©es ont √©t√© fabriqu√©es avec les donn√©es
 fournies par le site [OpenFoodFacts](https://fr.openfoodfacts.org/)
-et en accËs libre.
+et en acc√®s libre.
+Elles ont √©t√© pr√©par√©es avec le notebook 
+[2017 - Pr√©paration des donn√©es](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/notebooks/prepare_data_2017.html?highlight=openfoodfact).
